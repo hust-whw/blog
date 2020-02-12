@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>空鸣 | Hustwhw</title>
-    <link>https://blog.hustwhw.me/</link>
-    <description>Recent content on 空鸣 | Hustwhw</description>
+    <title>技术文档 on 空鸣 | Hustwhw</title>
+    <link>https://blog.hustwhw.me/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/</link>
+    <description>Recent content in 技术文档 on 空鸣 | Hustwhw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.hustwhw.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.hustwhw.me/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://blog.hustwhw.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.hustwhw.me/about/</guid>
-      <description>生命不息，学习不止。 此博客托管于 GitHub.</description>
-    </item>
     
     <item>
       <title>Github Pages &#43; Hugo 静态博客部署</title>
